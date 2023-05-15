@@ -3,7 +3,7 @@
 
 https://www.codecademy.com/courses/learn-intermediate-css/lessons/css-grid-essentials/exercises/introduction-to-grids
 
-![]("./screen_shot.jpg")
+![](./screen_shot.jpg)
 
 
 # GRID ESSENTIALS
